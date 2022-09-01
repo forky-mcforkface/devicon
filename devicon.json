@@ -2775,6 +2775,29 @@
         "aliases": []
     },
     {
+        "name": "gitpod-io",
+        "altnames": [],
+        "tags": [
+            "open-source",
+            "remote-development",
+            "cloud"
+        ],
+        "versions": {
+            "svg": [
+                "original",
+                "original-wordmark",
+                "plain",
+                "plain-wordmark"
+            ],
+            "font": [
+                "plain",
+                "plain-wordmark"
+            ]
+        },
+        "color": "#FFA132",
+        "aliases": []
+    },
+    {
         "name": "gitter",
         "altnames": [],
         "tags": [
